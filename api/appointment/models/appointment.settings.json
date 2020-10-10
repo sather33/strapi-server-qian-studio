@@ -1,0 +1,18 @@
+{
+  "kind": "collectionType",
+  "collectionName": "appointments",
+  "info": {
+    "name": "Appointment",
+    "description": ""
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true,
+    "draftAndPublish": true
+  },
+  "attributes": {
+    "start_at": {
+      "type": "datetime"
+    }
+  }
+}
