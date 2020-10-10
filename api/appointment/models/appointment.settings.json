@@ -13,6 +13,9 @@
   "attributes": {
     "start_at": {
       "type": "datetime"
+    },
+    "booker": {
+      "type": "string"
     }
   }
 }
