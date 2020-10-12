@@ -16,6 +16,9 @@
     },
     "booker": {
       "type": "string"
+    },
+    "isBooked": {
+      "type": "boolean"
     }
   }
 }
