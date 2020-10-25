@@ -28,6 +28,9 @@
     },
     "service": {
       "type": "string"
+    },
+    "price": {
+      "type": "integer"
     }
   }
 }
